@@ -43,8 +43,8 @@ interests:
 education:
   - area: Student, Бизнес-информатика
     institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
+    date_start: 2025-09-01
+    date_end: 2029-05-31
     summary: Изучаю информационные технологии в бизнесе, анализ данных, основы программирования и управление цифровыми проектами.
 
 work:
