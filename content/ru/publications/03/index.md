@@ -9,13 +9,13 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* Academic
-* Student Life
-* Writing
+- Academic
+- Student Life
+- Writing
 
 ---
 
